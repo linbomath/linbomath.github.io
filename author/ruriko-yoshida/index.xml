@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruriko Yoshida | Bo Lin&#39;s Academic Homepage</title>
+    <link>https://linbo.one/author/ruriko-yoshida/</link>
+      <atom:link href="https://linbo.one/author/ruriko-yoshida/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruriko Yoshida</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ruriko Yoshida</title>
+      <link>https://linbo.one/author/ruriko-yoshida/</link>
+    </image>
+    
+    <item>
+      <title>Tropical Fermat-Weber Points</title>
+      <link>https://linbo.one/publication/tropical-fermat-weber-points/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/publication/tropical-fermat-weber-points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropical Geometry of Phylogenetic Tree Space: A Statistical Perspective</title>
+      <link>https://linbo.one/publication/tropical-geometry-of-phylogenetic-tree-space-a-statistical-perspective/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/publication/tropical-geometry-of-phylogenetic-tree-space-a-statistical-perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convexity in Tree Spaces</title>
+      <link>https://linbo.one/publication/convexity-in-tree-spaces/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/publication/convexity-in-tree-spaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

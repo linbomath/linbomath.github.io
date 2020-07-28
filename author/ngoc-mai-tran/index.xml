@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ngoc Mai Tran | Bo Lin&#39;s Academic Homepage</title>
+    <link>https://linbo.one/author/ngoc-mai-tran/</link>
+      <atom:link href="https://linbo.one/author/ngoc-mai-tran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ngoc Mai Tran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ngoc Mai Tran</title>
+      <link>https://linbo.one/author/ngoc-mai-tran/</link>
+    </image>
+    
+    <item>
+      <title>Two-player incentive compatible outcome functions are affine maximizers</title>
+      <link>https://linbo.one/publication/two-player-incentive-compatible-outcome-functions-are-affine-maximizers/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/publication/two-player-incentive-compatible-outcome-functions-are-affine-maximizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear and Rational Factorization of Tropical Polynomials</title>
+      <link>https://linbo.one/publication/linear-and-rational-factorization-of-tropical-polynomials/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/publication/linear-and-rational-factorization-of-tropical-polynomials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

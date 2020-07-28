@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Bo Lin&#39;s Academic Homepage</title>
+    <link>https://linbo.one/project/</link>
+      <atom:link href="https://linbo.one/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://linbo.one/project/</link>
+    </image>
+    
+    <item>
+      <title>Phylogentic tree spaces with tropical metric</title>
+      <link>https://linbo.one/project/phylogenetic-tree-spaces/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/project/phylogenetic-tree-spaces/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Phylogenetic_tree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phylogenetic trees&lt;/a&gt; are the fundamental mathematical representation of evolutionary processes in biology. Billera-Holmes-Vogtman studied the space of phylogenetic trees with the $CAT-0$ metric, thus the space consists of orthants locally. Computations of distance between two trees and their geodesics could be very complicated in this space.&lt;/p&gt;
+&lt;p&gt;We propose a novel framework based on tropical geometry that we consider an alternative metric defined on the space, which leads to different geometric properties of the tree space. My collaborators and I study the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Geometric_median&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fermat-Weber points&lt;/a&gt;, 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Fr%C3%A9chet_mean&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fréchet means&lt;/a&gt;, and other objects under this framework, and we hope to apply them to the statistical analysis of evolutionary biological processes represented by phylogenetic trees.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snake locomotions</title>
+      <link>https://linbo.one/project/snake-locomotion/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/project/snake-locomotion/</guid>
+      <description>&lt;p&gt;Discovering principles of locomotion in complex terrain remains a challenge: how do organisms coordinate their enormous numbers of degrees of freedom to generate changes in body shape which lead to emergent robustness, stability and efficiency? Of interest to us in this project is limbless locomotion: snakes must coordinate the interaction of their flexible trunks with environmental heterogeneities (rocks, branches) to generate propulsion.&lt;/p&gt;
+&lt;p&gt;Dr. Greg Blekherman and I apply mathematical tools including applied algebraic geometry, topological data analysis and finite-element method to this project. The theory will be informed by data and insights from controlled laboratory animal experiments in Dr. Daniel Goldman’s group.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

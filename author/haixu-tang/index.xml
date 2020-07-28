@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haixu Tang | Bo Lin&#39;s Academic Homepage</title>
+    <link>https://linbo.one/author/haixu-tang/</link>
+      <atom:link href="https://linbo.one/author/haixu-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haixu Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Haixu Tang</title>
+      <link>https://linbo.one/author/haixu-tang/</link>
+    </image>
+    
+    <item>
+      <title>Bounding The Number of Linear Regions in Local Area for Neural Networks with ReLU Activations</title>
+      <link>https://linbo.one/publication/bounding-the-number-of-linear-regions-in-local-area-for-neural-networks-with-relu-activations/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/publication/bounding-the-number-of-linear-regions-in-local-area-for-neural-networks-with-relu-activations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
