@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCMB | 林博的学术主页</title>
+    <link>https://linbo.one/zh/tag/scmb/</link>
+      <atom:link href="https://linbo.one/zh/tag/scmb/index.xml" rel="self" type="application/rss+xml" />
+    <description>SCMB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
+      <title>SCMB</title>
+      <link>https://linbo.one/zh/tag/scmb/</link>
+    </image>
+    
+    <item>
+      <title>Snake locomotions</title>
+      <link>https://linbo.one/zh/project/snake-locomotion/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/project/snake-locomotion/</guid>
+      <description>&lt;p&gt;Discovering principles of locomotion in complex terrain remains a challenge: how do organisms coordinate their enormous numbers of degrees of freedom to generate changes in body shape which lead to emergent robustness, stability and efficiency? Of interest to us in this project is limbless locomotion: snakes must coordinate the interaction of their flexible trunks with environmental heterogeneities (rocks, branches) to generate propulsion.&lt;/p&gt;
+&lt;p&gt;Dr. Greg Blekherman and I apply mathematical tools including applied algebraic geometry, topological data analysis and finite-element method to this project. The theory will be informed by data and insights from controlled laboratory animal experiments in Dr. Daniel Goldman’s group.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

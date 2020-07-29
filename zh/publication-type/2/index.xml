@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | 林博的学术主页</title>
+    <link>https://linbo.one/zh/publication-type/2/</link>
+      <atom:link href="https://linbo.one/zh/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://linbo.one/zh/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Two-player incentive compatible outcome functions are affine maximizers</title>
+      <link>https://linbo.one/zh/publication/two-player-incentive-compatible-outcome-functions-are-affine-maximizers/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/two-player-incentive-compatible-outcome-functions-are-affine-maximizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropical Fermat-Weber Points</title>
+      <link>https://linbo.one/zh/publication/tropical-fermat-weber-points/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/tropical-fermat-weber-points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convexity in Tree Spaces</title>
+      <link>https://linbo.one/zh/publication/convexity-in-tree-spaces/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/convexity-in-tree-spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Linear Systems on Metric Graphs</title>
+      <link>https://linbo.one/zh/publication/computing-linear-systems-on-metric-graphs/</link>
+      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/computing-linear-systems-on-metric-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almost-toric Hypersurfaces</title>
+      <link>https://linbo.one/zh/publication/almost-toric-hypersurfaces/</link>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/almost-toric-hypersurfaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Zhu | 林博的学术主页</title>
+    <link>https://linbo.one/zh/author/rui-zhu/</link>
+      <atom:link href="https://linbo.one/zh/author/rui-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
+      <title>Rui Zhu</title>
+      <link>https://linbo.one/zh/author/rui-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Bounding The Number of Linear Regions in Local Area for Neural Networks with ReLU Activations</title>
+      <link>https://linbo.one/zh/publication/bounding-the-number-of-linear-regions-in-local-area-for-neural-networks-with-relu-activations/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/bounding-the-number-of-linear-regions-in-local-area-for-neural-networks-with-relu-activations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

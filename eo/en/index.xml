@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens | Bo Lin&#39;s Academic Homepage</title>
+    <link>https://linbo.one/eo/en/</link>
+      <atom:link href="https://linbo.one/eo/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>eo</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 28 Jul 2020 02:25:02 -0400</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
+      <title>Ens</title>
+      <link>https://linbo.one/eo/en/</link>
+    </image>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://linbo.one/eo/en/personal/</link>
+      <pubDate>Tue, 28 Jul 2020 02:25:02 -0400</pubDate>
+      <guid>https://linbo.one/eo/en/personal/</guid>
+      <description>&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Playing boardgames. This is 
+&lt;a href=&#34;https://en.boardgamearena.com/player?id=37602913&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my profile&lt;/a&gt; on BoardGameArena.&lt;/li&gt;
+&lt;li&gt;Watching a variety of sports games, including soccer, basketball, field kockey and curling.&lt;/li&gt;
+&lt;li&gt;Playing 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Floorball&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;floorball&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Contributing to 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Wikipedia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learning languages, including German, Esperanto and Korean.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Amateur 3-dan certificate of 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Go_%28game%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Go&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Elementary user of 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Esperanto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Esperanto&lt;/a&gt;: &lt;em&gt;Mi ĝojas uzi Esperanton&lt;/em&gt;! (I enjoy using Esperanto).&lt;/li&gt;
+&lt;li&gt;Former Mathematical Olympiad participant: I was very fortunate to participante major Mathematical Olympiad competitions in China, Russia and the US, and I won a gold medal from International Mathematical Olympiad in 2009. Please see 
+&lt;a href=&#34;http://imo-official.org/participant_r.aspx?id=18885&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my profile&lt;/a&gt; on the official website of IMO.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://linbo.one/eo/en/teaching/</link>
+      <pubDate>Tue, 28 Jul 2020 02:25:02 -0400</pubDate>
+      <guid>https://linbo.one/eo/en/teaching/</guid>
+      <description>&lt;h2 id=&#34;teaching-statement&#34;&gt;Teaching Statement&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://linbo.one/files/Bo%20Lin%20-%20Teaching%20Statement.pdf&#34; target=&#34;_blank&#34;&gt;Download (pdf)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;teaching-experience&#34;&gt;Teaching Experience&lt;/h2&gt;
+&lt;h3 id=&#34;as-instructor&#34;&gt;As Instructor&lt;/h3&gt;
+&lt;h4 id=&#34;math-3012-applied-combinatorics-georgia-tech-fall-2020&#34;&gt;Math 3012: Applied Combinatorics (Georgia Tech, Fall 2020)&lt;/h4&gt;
+&lt;p&gt;Undergraduate course on combinatorics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gatech.instructure.com/courses/129810&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course homepage on Canvas&lt;/a&gt; (GaTech credentials required to access)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;course material&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;math-2603-introduction-to-discrete-mathematics-georgia-tech-fall-2019&#34;&gt;Math 2603: Introduction to Discrete Mathematics (Georgia Tech, Fall 2019)&lt;/h4&gt;
+&lt;p&gt;Undergraduate course on discrete math and graph theory&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gatech.instructure.com/courses/57052&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course homepage on Canvas&lt;/a&gt; (GaTech credentials required to access)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;course material&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;math-325k-discrete-mathematics53940-university-of-texas-austin-fall-2018&#34;&gt;Math 325K: Discrete Mathematics(53940) (University of Texas, Austin, Fall 2018)&lt;/h4&gt;
+&lt;p&gt;Undergraduate course on discrete math which focuses on mathematical proofs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://utexas.instructure.com/courses/1233423&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course homepage on Canvas&lt;/a&gt; (UTexas credentials required to access)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;course material&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;math-328k-introduction-to-number-theory87120-university-of-texas-austin-summer-2018&#34;&gt;Math 328K: Introduction to Number Theory(87120) (University of Texas, Austin, Summer 2018)&lt;/h4&gt;
+&lt;p&gt;Undergraduate course on elementary number theory&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://piazza.com/utexas/summer2018/m328k/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course homepage on Piazza&lt;/a&gt; (Enrollment required to access)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;course material&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;as-teaching-assistant&#34;&gt;As Teaching Assistant&lt;/h3&gt;
+&lt;h4 id=&#34;math-10b-methods-of-mathematics-calculus-statistics-and-combinatorics-university-of-california-berkeley-spring-2017&#34;&gt;Math 10B: Methods of Mathematics: Calculus, Statistics, and Combinatorics (University of California, Berkeley, Spring 2017)&lt;/h4&gt;
+&lt;h4 id=&#34;math-10a-methods-of-mathematics-calculus-statistics-and-combinatorics-university-of-california-berkeley-fall-2015&#34;&gt;Math 10A: Methods of Mathematics: Calculus, Statistics, and Combinatorics (University of California, Berkeley, Fall 2015)&lt;/h4&gt;
+&lt;h4 id=&#34;math-32-precalculus-university-of-california-berkeley-fall-2014&#34;&gt;Math 32: Precalculus (University of California, Berkeley, Fall 2014)&lt;/h4&gt;
+&lt;h4 id=&#34;math-32-precalculus-university-of-california-berkeley-spring-2014&#34;&gt;Math 32: Precalculus (University of California, Berkeley, Spring 2014)&lt;/h4&gt;
+&lt;h4 id=&#34;math-54-linear-algebra-and-differential-equations-university-of-california-berkeley-fall-2013&#34;&gt;Math 54: Linear Algebra and Differential Equations (University of California, Berkeley, Fall 2013)&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anthea-monod | Bo Lin&#39;s Academic Homepage</title>
+    <link>https://linbo.one/eo/author/anthea-monod/</link>
+      <atom:link href="https://linbo.one/eo/author/anthea-monod/index.xml" rel="self" type="application/rss+xml" />
+    <description>anthea-monod</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>eo</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
+      <title>anthea-monod</title>
+      <link>https://linbo.one/eo/author/anthea-monod/</link>
+    </image>
+    
+    <item>
+      <title>Tropical Optimal Transport and Wasserstein Distances in Phylogenetic Tree Space</title>
+      <link>https://linbo.one/eo/eo/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/eo/eo/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropical Optimal Transport and Wasserstein Distances in Phylogenetic Tree Space</title>
+      <link>https://linbo.one/eo/zh/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/eo/zh/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropical Geometry of Phylogenetic Tree Space: A Statistical Perspective</title>
+      <link>https://linbo.one/eo/eo/publication/tropical-geometry-of-phylogenetic-tree-space-a-statistical-perspective/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/eo/eo/publication/tropical-geometry-of-phylogenetic-tree-space-a-statistical-perspective/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
