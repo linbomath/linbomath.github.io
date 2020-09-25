@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://linbo.one/publication-type/1/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://linbo.one/authors/</loc>
-    <lastmod>2020-07-28T03:03:50-04:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -18,8 +23,13 @@
   </url>
   
   <url>
+    <loc>https://linbo.one/author/baxi-chong/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://linbo.one/author/bo-lin/</loc>
-    <lastmod>2020-07-28T03:03:50-04:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -34,7 +44,7 @@
   
   <url>
     <loc>https://linbo.one/</loc>
-    <lastmod>2020-07-28T03:03:50-04:00</lastmod>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -45,6 +55,96 @@
                 hreflang="en"
                 href="https://linbo.one/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/author/daniel-i.-goldman/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/author/enes-aydin/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/author/greg-blekherman/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/author/howie-choset/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/publication_types/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/publication/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/tag/source-themes/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/tag/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/tag/source-themes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/tags/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/author/yasemin-ozkan-aydin/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -213,21 +313,6 @@
   </url>
   
   <url>
-    <loc>https://linbo.one/tags/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://linbo.one/publication-type/3/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -273,36 +358,6 @@
   </url>
   
   <url>
-    <loc>https://linbo.one/publication_types/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://linbo.one/publication/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>https://linbo.one/author/rui-zhu/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -314,21 +369,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://linbo.one/author/rui-zhu/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://linbo.one/tag/source-themes/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/tag/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/tag/source-themes/"
                 />
   </url>
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howie Choset | Bo Lin&#39;s Academic Homepage</title>
+    <link>https://linbo.one/author/howie-choset/</link>
+      <atom:link href="https://linbo.one/author/howie-choset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Howie Choset</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
+      <title>Howie Choset</title>
+      <link>https://linbo.one/author/howie-choset/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing Coordinate Choice for Locomotion Systems with Toroidal Shape Spaces</title>
+      <link>https://linbo.one/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
