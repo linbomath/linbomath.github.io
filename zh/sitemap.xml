@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://linbo.one/zh/publication-type/1/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/publication-type/1/"
+                />
+  </url>
+  
+  <url>
     <loc>https://linbo.one/zh/authors/</loc>
-    <lastmod>2020-07-28T03:03:50-04:00</lastmod>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +29,306 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://linbo.one/zh/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/baxi-chong/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/baxi-chong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/baxi-chong/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/daniel-goldman/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/daniel-i.-goldman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/daniel-goldman/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/greg-blekherman/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/greg-blekherman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/greg-blekherman/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/howie-choset/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/howie-choset/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/howie-choset/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/publication/moving-sidewinding-forward-optimizing-contact-patterns-for-limbless-robots-via-geometric-mechanics/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/publication/moving-sidewinding-forward-optimizing-contact-patterns-for-limbless-robots-via-geometric-mechanics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/publication/moving-sidewinding-forward-optimizing-contact-patterns-for-limbless-robots-via-geometric-mechanics/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/publication_types/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/shengkai-li/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/shengkai-li/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/shengkai-li/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/tag/source-themes/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/tag/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/tag/source-themes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/tags/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/tianyu-wang/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/tianyu-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/tianyu-wang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/%E6%9E%97%E5%8D%9A/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/bo-lin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/%E6%9E%97%E5%8D%9A/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/publication/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/publication-type/2/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/publication-type/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/julian-whitman/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/julian-whitman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/julian-whitman/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/matthew-travers/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/matthew-travers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/matthew-travers/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/publication/reconstruction-of-backbone-curves-for-snake-robots/</loc>
+    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/publication/reconstruction-of-backbone-curves-for-snake-robots/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/publication/reconstruction-of-backbone-curves-for-snake-robots/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/enes-aydin/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/enes-aydin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/enes-aydin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://linbo.one/zh/author/yasemin-ozkan-aydin/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/yasemin-ozkan-aydin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/yasemin-ozkan-aydin/"
                 />
   </url>
   
@@ -44,36 +359,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://linbo.one/zh/courses/2019fall-math2603/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://linbo.one/zh/author/%E6%9E%97%E5%8D%9A/</loc>
-    <lastmod>2020-07-28T03:03:50-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/author/bo-lin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/author/%E6%9E%97%E5%8D%9A/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://linbo.one/zh/</loc>
-    <lastmod>2020-07-28T03:03:50-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/"
                 />
   </url>
   
@@ -198,21 +483,6 @@
   </url>
   
   <url>
-    <loc>https://linbo.one/zh/tags/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://linbo.one/zh/research/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -273,21 +543,6 @@
   </url>
   
   <url>
-    <loc>https://linbo.one/zh/publication_types/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/publication_types/"
-                />
-  </url>
-  
-  <url>
     <loc>https://linbo.one/zh/author/rui-zhu/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -299,36 +554,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://linbo.one/zh/author/rui-zhu/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://linbo.one/zh/tag/source-themes/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/tag/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/tag/source-themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://linbo.one/zh/publication/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/publication/"
                 />
   </url>
   
@@ -378,17 +603,17 @@
   </url>
   
   <url>
-    <loc>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/</loc>
+    <loc>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances/</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://linbo.one/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/"
+                href="https://linbo.one/publication/tropical-optimal-transport-and-wasserstein-distances/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/"
+                href="https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances/"
                 />
   </url>
   
@@ -419,21 +644,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://linbo.one/zh/author/wuchen-li/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://linbo.one/zh/publication-type/2/</loc>
-    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/publication-type/2/"
                 />
   </url>
   

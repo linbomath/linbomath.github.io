@@ -5,12 +5,36 @@
     <link>https://linbo.one/zh/</link>
       <atom:link href="https://linbo.one/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>林博的学术主页</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 28 Jul 2020 03:02:34 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020-2021 Bo Lin</copyright><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
       <title>林博的学术主页</title>
       <link>https://linbo.one/zh/</link>
     </image>
+    
+    <item>
+      <title>Moving sidewinding forward: optimizing contact patterns for limbless robots via geometric mechanics</title>
+      <link>https://linbo.one/zh/publication/moving-sidewinding-forward-optimizing-contact-patterns-for-limbless-robots-via-geometric-mechanics/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/moving-sidewinding-forward-optimizing-contact-patterns-for-limbless-robots-via-geometric-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of Backbone Curves for Snake Robots</title>
+      <link>https://linbo.one/zh/publication/reconstruction-of-backbone-curves-for-snake-robots/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/reconstruction-of-backbone-curves-for-snake-robots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Coordinate Choice for Locomotion Systems with Toroidal Shape Spaces</title>
+      <link>https://linbo.one/zh/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Math 2603 - Fall 2019</title>
@@ -87,7 +111,7 @@
       <pubDate>Tue, 28 Jul 2020 02:25:02 -0400</pubDate>
       <guid>https://linbo.one/zh/teaching/</guid>
       <description>&lt;h2 id=&#34;教学理念&#34;&gt;教学理念&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://linbo.one/files/Bo%20Lin%20-%20Teaching%20Statement.pdf&#34; target=&#34;_blank&#34;&gt;Download (pdf)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://linbo.one/files/Bo%20Lin%20-%20Teaching%20Statement%20-%20202010.pdf&#34; target=&#34;_blank&#34;&gt;Download (pdf)&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;教学经历&#34;&gt;教学经历&lt;/h2&gt;
 &lt;h3 id=&#34;作为教师&#34;&gt;作为教师&lt;/h3&gt;
 &lt;h4 id=&#34;math-3012-applied-combinatorics-georgia-tech-fall-2020&#34;&gt;Math 3012: Applied Combinatorics (Georgia Tech, Fall 2020)&lt;/h4&gt;
@@ -249,10 +273,10 @@
     </item>
     
     <item>
-      <title>Tropical Optimal Transport and Wasserstein Distances in Phylogenetic Tree Space</title>
-      <link>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/</link>
+      <title>Tropical optimal transport and Wasserstein distances</title>
+      <link>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/</guid>
+      <guid>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances/</guid>
       <description></description>
     </item>
     

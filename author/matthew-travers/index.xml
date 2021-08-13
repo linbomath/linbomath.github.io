@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Travers | Bo Lin&#39;s Academic Homepage</title>
+    <link>https://linbo.one/author/matthew-travers/</link>
+      <atom:link href="https://linbo.one/author/matthew-travers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Travers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020-2021 Bo Lin</copyright><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
+      <title>Matthew Travers</title>
+      <link>https://linbo.one/author/matthew-travers/</link>
+    </image>
+    
+    <item>
+      <title>Reconstruction of Backbone Curves for Snake Robots</title>
+      <link>https://linbo.one/publication/reconstruction-of-backbone-curves-for-snake-robots/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/publication/reconstruction-of-backbone-curves-for-snake-robots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

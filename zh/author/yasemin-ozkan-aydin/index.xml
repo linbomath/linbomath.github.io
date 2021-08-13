@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yasemin Ozkan-Aydin | 林博的学术主页</title>
+    <link>https://linbo.one/zh/author/yasemin-ozkan-aydin/</link>
+      <atom:link href="https://linbo.one/zh/author/yasemin-ozkan-aydin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yasemin Ozkan-Aydin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020-2021 Bo Lin</copyright><lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
+      <title>Yasemin Ozkan-Aydin</title>
+      <link>https://linbo.one/zh/author/yasemin-ozkan-aydin/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing Coordinate Choice for Locomotion Systems with Toroidal Shape Spaces</title>
+      <link>https://linbo.one/zh/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
