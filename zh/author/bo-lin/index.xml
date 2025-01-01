@@ -5,12 +5,36 @@
     <link>https://linbo.one/zh/author/bo-lin/</link>
       <atom:link href="https://linbo.one/zh/author/bo-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Bo Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020-2020 Bo Lin</copyright><lastBuildDate>Tue, 28 Jul 2020 03:02:34 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020-2024 Bo Lin</copyright><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_2.png</url>
+      <url>https://linbo.one/images/icon_hu4319e88e5ebf09bdb61cdb930a9cb81e_2257_512x512_fill_lanczos_center_3.png</url>
       <title>Bo Lin</title>
       <link>https://linbo.one/zh/author/bo-lin/</link>
     </image>
+    
+    <item>
+      <title>Moving sidewinding forward: optimizing contact patterns for limbless robots via geometric mechanics</title>
+      <link>https://linbo.one/zh/publication/moving-sidewinding-forward-optimizing-contact-patterns-for-limbless-robots-via-geometric-mechanics/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/moving-sidewinding-forward-optimizing-contact-patterns-for-limbless-robots-via-geometric-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of Backbone Curves for Snake Robots</title>
+      <link>https://linbo.one/zh/publication/reconstruction-of-backbone-curves-for-snake-robots/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/reconstruction-of-backbone-curves-for-snake-robots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Coordinate Choice for Locomotion Systems with Toroidal Shape Spaces</title>
+      <link>https://linbo.one/zh/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://linbo.one/zh/publication/optimizing-coordinate-choice-for-locomotion-systems-with-toroidal-shape-spaces/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Math 2603 - Fall 2019</title>
@@ -54,29 +78,29 @@
     </item>
     
     <item>
-      <title>Personal</title>
+      <title>个人</title>
       <link>https://linbo.one/zh/personal/</link>
       <pubDate>Tue, 28 Jul 2020 02:25:02 -0400</pubDate>
       <guid>https://linbo.one/zh/personal/</guid>
-      <description>&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;爱好&#34;&gt;爱好&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Playing boardgames. This is 
-&lt;a href=&#34;https://en.boardgamearena.com/player?id=37602913&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my profile&lt;/a&gt; on BoardGameArena.&lt;/li&gt;
-&lt;li&gt;Watching a variety of sports games, including soccer, basketball, field kockey and curling.&lt;/li&gt;
-&lt;li&gt;Playing 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Floorball&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;floorball&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Contributing to 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Wikipedia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Learning languages, including German, Esperanto and Korean.&lt;/li&gt;
+&lt;li&gt;桌游。这是我在BoardGameArena网站的 
+&lt;a href=&#34;https://en.boardgamearena.com/player?id=37602913&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;帐号&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;观看各种体育比赛，包括足球、篮球、曲棍球、冰壶等。&lt;/li&gt;
+&lt;li&gt;打 
+&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e7%a6%8f%e4%b9%90%e7%90%83&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;地板球&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;编辑 
+&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e7%bb%b4%e5%9f%ba%e7%99%be%e7%a7%91&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;维基百科&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;学习各种语言，包括德语、世界语、韩语等。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;h2 id=&#34;技能&#34;&gt;技能&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Amateur 3-dan certificate of 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Go_%28game%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Go&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Elementary user of 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Esperanto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Esperanto&lt;/a&gt;: &lt;em&gt;Mi ĝojas uzi Esperanton&lt;/em&gt;! (I enjoy using Esperanto).&lt;/li&gt;
-&lt;li&gt;Former Mathematical Olympiad participant: I was very fortunate to participante major Mathematical Olympiad competitions in China, Russia and the US, and I won a gold medal from International Mathematical Olympiad in 2009. Please see 
-&lt;a href=&#34;http://imo-official.org/participant_r.aspx?id=18885&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my profile&lt;/a&gt; on the official website of IMO.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e5%9b%b4%e6%a3%8b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;围棋&lt;/a&gt; 业余3段。&lt;/li&gt;
+&lt;li&gt;初级 
+&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e4%b8%96%e7%95%8c%e8%af%ad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;世界语&lt;/a&gt; 使用者：&lt;em&gt;Mi ĝojas uzi Esperanton&lt;/em&gt;! （我享受使用世界语）。&lt;/li&gt;
+&lt;li&gt;前数学奥林匹克参赛选手：我很幸运有机会参加过中国、俄罗斯、美国举办的多个重要赛事，并在2009年的国际数学奥林匹克（IMO）获得一枚金牌。这是我在IMO官方网站的 
+&lt;a href=&#34;http://imo-official.org/participant_r.aspx?id=18885&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;选手资料&lt;/a&gt;。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -160,10 +184,10 @@
     </item>
     
     <item>
-      <title>Tropical Optimal Transport and Wasserstein Distances in Phylogenetic Tree Space</title>
-      <link>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/</link>
+      <title>Tropical optimal transport and Wasserstein distances</title>
+      <link>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances-in-phylogenetic-tree-space/</guid>
+      <guid>https://linbo.one/zh/publication/tropical-optimal-transport-and-wasserstein-distances/</guid>
       <description></description>
     </item>
     

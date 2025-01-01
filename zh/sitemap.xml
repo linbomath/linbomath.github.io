@@ -41,7 +41,20 @@
                 href="https://linbo.one/zh/author/baxi-chong/"
                 />
   </url><url>
-    <loc>https://linbo.one/zh/author/daniel-goldman/</loc>
+    <loc>https://linbo.one/zh/author/bo-lin/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linbo.one/author/bo-lin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://linbo.one/zh/author/bo-lin/"
+                />
+  </url><url>
+    <loc>https://linbo.one/zh/author/daniel-i.-goldman/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -51,7 +64,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://linbo.one/zh/author/daniel-goldman/"
+                href="https://linbo.one/zh/author/daniel-i.-goldman/"
                 />
   </url><url>
     <loc>https://linbo.one/zh/author/greg-blekherman/</loc>
@@ -156,19 +169,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://linbo.one/zh/author/tianyu-wang/"
-                />
-  </url><url>
-    <loc>https://linbo.one/zh/author/%E6%9E%97%E5%8D%9A/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linbo.one/author/bo-lin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://linbo.one/zh/author/%E6%9E%97%E5%8D%9A/"
                 />
   </url><url>
     <loc>https://linbo.one/zh/</loc>
