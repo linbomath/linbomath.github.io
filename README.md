@@ -1,2 +1,2 @@
 # linbomath.github.io
-Bo Lin's Homepage
+Bo Lin's academic archive
